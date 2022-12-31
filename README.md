@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PyDev-Kartik
-- 👀 I’m interested in Programming
+- 🎓 I’m interested in Learning New Skills
 - 🌱 I’m currently learning Python and C language
 
 <!---
